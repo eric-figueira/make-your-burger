@@ -21,7 +21,6 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        position: absolute;
         bottom: 0;
         width: 100%
     }
