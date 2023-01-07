@@ -14,7 +14,7 @@
 
     #main-banner {
         background-image: url('/public/img/burger.jpg');
-        background-position: 0 -550px;
+        background-position: 0 -250px;
         background-size: cover;
         height: 500px;
         display: flex;
