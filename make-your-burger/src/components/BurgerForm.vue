@@ -18,7 +18,7 @@
                 <div class="input-container">
                     <label for="carne">Escolha a carne do seu Burger:</label>
                     <select name="carne" id="carne" v-model="carne">
-                        <option value="">Select a carne</option>
+                        <option value="">Selecione a carne</option>
                         <option v-for="carne in carnes" :key="carne.id" :value="carne.tipo">{{ carne.tipo }}</option>
                     </select>
                 </div>
